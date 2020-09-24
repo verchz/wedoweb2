@@ -1,0 +1,51 @@
+@import "frontend-widgets/dynamic-field";
+@import "frontend-widgets/dynamic-image";
+@import "frontend-widgets/dynamic-repeater";
+@import "frontend-widgets/dynamic-link";
+@import "frontend-widgets/dynamic-terms";
+@import "frontend-widgets/dynamic-meta";
+@import "frontend-widgets/grid";
+@import "frontend-widgets/calendar";
+@import "frontend-widgets/booking-form";
+@import "frontend-widgets/profile-menu";
+@import "frontend-widgets/maps";
+
+
+//.jet-engine-document-handle,
+//.jet-engine-document-back-handle {
+//	position: absolute;
+//	top: 0;
+//	left: 0;
+//	z-index: 100;
+//	display: none;
+//	align-items: center;
+//	justify-content: center;
+//	width: 25px;
+//	height: 25px;
+//	font-size: 11px;
+//	color: #fff;
+//	background: #fcb92c;
+//	transition: .3s;
+//	cursor: pointer;
+//}
+//
+//.elementor-editor-active {
+//
+//	.elementor[data-elementor-type="jet-listing-items"] {
+//		position: relative;
+//	}
+//
+//	.elementor[data-elementor-type="jet-listing-items"]:not(.elementor-edit-mode):hover {
+//		box-shadow: none;
+//	}
+//
+//	.jet-engine-document-edit-item.elementor-edit-mode,
+//	.jet-listing-grid:hover .jet-engine-document-edit-item:not(.elementor-edit-mode) {
+//		box-shadow: 0 0 0 1px #fcb92c;
+//	}
+//
+//	.jet-engine-document-edit-item.elementor-edit-mode .jet-engine-document-back-handle,
+//	.jet-listing-grid:hover .jet-engine-document-edit-item:not(.elementor-edit-mode) .jet-engine-document-handle {
+//		display: flex;
+//	}
+//}
