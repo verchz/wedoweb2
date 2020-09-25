@@ -16,6 +16,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ```
 #Descargar el proyecto desde github (https://github.com/verchz/wedoweb2)
 #crear base de datos con los siguientes datos (la base de datos se encuentra en la carpeta DB dentro del proyecto):
+recordar cambiar el siteurl y home en la tabla wp-optiones de la base de datos!
 - nombre: wordpresschallenge
 - username: root
 # luego instalar en su servidor los archivos de wordpress y ejecutar
